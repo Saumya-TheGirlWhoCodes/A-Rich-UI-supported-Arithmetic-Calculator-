@@ -1,0 +1,38 @@
+
+#contain{
+	margin-left:400px;
+	margin-top:100px;
+	
+}
+h3{
+	font-family:Calibri;
+}
+input[type=button] {
+  background: #C0C0C0;
+  width: 20%;
+  height: 50px;
+  font-size: 20px;
+  font-weight: 900;
+  border-radius: 10px;
+  margin-left: 13px;
+  margin-top: 10px;
+  color:black;
+}
+input[type=button]:active {
+  background-color: #3e8e41;
+}
+input[type=button]:hover {
+  background-color: #BFCCF5;
+  font-size: 35px;
+  color: black;
+}
+
+input[type = text] {
+  display: block;
+  width: 90%;
+  margin: 5px auto;
+  text-align:right;
+  font-size: 20px;
+  padding: 10px;
+  box-shadow: 4px 0px 12px #775050 inset;
+}
